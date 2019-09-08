@@ -1,0 +1,23 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "cl.ubiobio.mapa"
+    },
+    "cordova-plugin-googlemaps": {
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "cl.ubiobio.mapa"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "cl.ubiobio.mapa"
+    }
+  },
+  "dependent_plugins": {}
+}
