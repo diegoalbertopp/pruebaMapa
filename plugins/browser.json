@@ -10,9 +10,6 @@
     "cordova-plugin-device": {
       "PACKAGE_NAME": "cl.ubiobio.mapa"
     },
-    "cordova-plugin-googlemaps": {
-      "PACKAGE_NAME": "cl.ubiobio.mapa"
-    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "cl.ubiobio.mapa"
     }
